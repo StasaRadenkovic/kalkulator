@@ -22,7 +22,7 @@ def calculator():
         user_input = input("Enter calculation (e.g. 5 + 3): ")
 
         if user_input.lower() == "exit":
-            print("Goodbye!")
+            print("BYEEEEE!")
             break
 
         try:
